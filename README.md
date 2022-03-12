@@ -35,9 +35,9 @@ Eye tracking is a widely used tool for behavioral research in the field of psych
 ---
 Output 1 :
 
-![OUTPUT-2](output/output2.png)
+![OUTPUT-1](output/output1.PNG)
 ---
 Output 2 :
 
-![OUTPUT-1](output/output1.png)
+![OUTPUT-2](output/output2.PNG)
 ---
