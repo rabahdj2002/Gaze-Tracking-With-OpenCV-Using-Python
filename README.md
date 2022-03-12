@@ -1,8 +1,8 @@
-# Gaze Tracking With OpenCV Using Python
+# Gaze Tracking With OpenCV Using Python :
 
 ---
 
-Eye tracking is a widely used tool for behavioral research in the field of psychology. With technological advancement, we now have specialized eye-tracking devices that offer high sampling rates, up to 2000 Hz, and allow for measuring eye movements with high accuracy. They also offer high spatial resolution, which enables the recording of very small movements
+Eye tracking is a widely used tool for behavioral research in the field of psychology. With technological advancement, we now have specialized eye-tracking devices that offer high sampling rates, up to 2000 Hz, and allow for measuring eye movements with high accuracy. They also offer high spatial resolution, which enables the recording of very small movements.
 
 ### Technologies used :
 
@@ -30,7 +30,7 @@ Eye tracking is a widely used tool for behavioral research in the field of psych
 
 - `python main.py`
 
-### Output Video
+### Output :
 
 ---
 Output 1 :
